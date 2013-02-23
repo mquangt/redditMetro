@@ -1,10 +1,10 @@
-Assets\DarkGray.png
-Assets\LightGray.png
+Assets\badge.png
 Assets\Logo.png
-Assets\MediumGray.png
+Assets\reddit-alien.png
+Assets\small_logo.png
 Assets\SmallLogo.png
-Assets\SplashScreen.png
-Assets\StoreLogo.png
+Assets\splash.png
+Assets\wide_logo.png
 App.xaml
 Common\StandardStyles.xaml
 GroupDetailPage.xaml

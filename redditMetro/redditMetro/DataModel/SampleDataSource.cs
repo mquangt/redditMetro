@@ -294,7 +294,7 @@ namespace redditMetro.Data
 
                     group1.Items.Add(new SampleDataItem(post.data.title,
                             post.data.selftext,
-                            post.data.author,
+                            post.data.title,
                             post.data.url,
                             "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
                             ITEM_CONTENT,

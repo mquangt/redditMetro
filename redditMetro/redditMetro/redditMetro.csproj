@@ -132,13 +132,13 @@
     <None Include="redditMetro_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\badge.png" />
     <Content Include="Assets\Logo.png" />
+    <Content Include="Assets\reddit-alien.png" />
     <Content Include="Assets\SmallLogo.png" />
-    <Content Include="Assets\SplashScreen.png" />
-    <Content Include="Assets\StoreLogo.png" />
-    <Content Include="Assets\LightGray.png" />
-    <Content Include="Assets\MediumGray.png" />
-    <Content Include="Assets\DarkGray.png" />
+    <Content Include="Assets\small_logo.png" />
+    <Content Include="Assets\splash.png" />
+    <Content Include="Assets\wide_logo.png" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">

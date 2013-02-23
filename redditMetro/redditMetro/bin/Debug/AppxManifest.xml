@@ -22,9 +22,15 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="redditMetro.exe" EntryPoint="redditMetro.App">
-      <VisualElements DisplayName="redditMetro" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="redditMetro" ForegroundText="light" BackgroundColor="#464646">
-        <DefaultTile ShowName="allLogos" />
-        <SplashScreen Image="Assets\SplashScreen.png" />
+      <VisualElements DisplayName="sausageReddit" Logo="Assets\Logo.png" SmallLogo="Assets\small_logo.png" Description="sausageReddit is an app designed for Windows 8" ForegroundText="dark" BackgroundColor="#CEE3F8">
+        <DefaultTile ShowName="allLogos" WideLogo="Assets\wide_logo.png" ShortName="reddit" />
+        <SplashScreen Image="Assets\splash.png" />
+        <InitialRotationPreference>
+          <Rotation Preference="portrait" />
+          <Rotation Preference="landscape" />
+          <Rotation Preference="portraitFlipped" />
+          <Rotation Preference="landscapeFlipped" />
+        </InitialRotationPreference>
       </VisualElements>
     </Application>
   </Applications>

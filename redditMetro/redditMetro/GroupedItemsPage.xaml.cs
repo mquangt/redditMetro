@@ -26,6 +26,7 @@ namespace redditMetro
         public GroupedItemsPage()
         {
             this.InitializeComponent();
+            
         }
 
         /// <summary>

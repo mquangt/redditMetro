@@ -25,30 +25,30 @@
     <AppxPackagedFile Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\packages\Newtonsoft.Json.4.5.11\lib\winrt45\Newtonsoft.Json.xml">
       <PackagePath>Newtonsoft.Json.xml</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\Assets\badge.png">
+      <PackagePath>Assets\badge.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\Assets\reddit-alien.png">
+      <PackagePath>Assets\reddit-alien.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\Assets\SmallLogo.png">
       <PackagePath>Assets\SmallLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\Assets\small_logo.png">
+      <PackagePath>Assets\small_logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\Assets\SplashScreen.png">
-      <PackagePath>Assets\SplashScreen.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\Assets\splash.png">
+      <PackagePath>Assets\splash.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\Assets\StoreLogo.png">
-      <PackagePath>Assets\StoreLogo.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\Assets\wide_logo.png">
+      <PackagePath>Assets\wide_logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\Assets\LightGray.png">
-      <PackagePath>Assets\LightGray.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\Assets\MediumGray.png">
-      <PackagePath>Assets\MediumGray.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\Assets\DarkGray.png">
-      <PackagePath>Assets\DarkGray.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\bin\Debug\App.xaml">
       <PackagePath>App.xaml</PackagePath>
