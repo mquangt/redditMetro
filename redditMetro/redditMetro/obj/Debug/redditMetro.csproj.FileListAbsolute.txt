@@ -31,3 +31,7 @@ C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\obj\Debug\r
 C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\obj\Debug\pri.resfiles
 C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\obj\Debug\LanguageQualifiers.txt
 C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\obj\Debug\ProjectArchitectures.txt
+C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\obj\Debug\redditMetro.csprojResolveAssemblyReference.cache
+C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\obj\Debug\redditMetro.csproj.GenerateResource.Cache
