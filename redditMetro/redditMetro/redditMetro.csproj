@@ -139,6 +139,7 @@
     <Content Include="Assets\small_logo.png" />
     <Content Include="Assets\splash.png" />
     <Content Include="Assets\wide_logo.png" />
+    <Content Include="TODO.txt" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">

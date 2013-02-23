@@ -27,8 +27,6 @@ namespace redditMetro
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Windows.UI.Xaml.Build.Tasks"," 4.0.0.0")]
         private global::Windows.UI.Xaml.Controls.TextBlock pageTitle; 
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Windows.UI.Xaml.Build.Tasks"," 4.0.0.0")]
-        private global::Windows.UI.Xaml.Controls.Button backButton_Copy; 
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Windows.UI.Xaml.Build.Tasks"," 4.0.0.0")]
         private global::Windows.UI.Xaml.VisualStateGroup ApplicationViewStates; 
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Windows.UI.Xaml.Build.Tasks"," 4.0.0.0")]
         private global::Windows.UI.Xaml.VisualState FullScreenLandscape; 
@@ -57,7 +55,6 @@ namespace redditMetro
             itemListView = (global::Windows.UI.Xaml.Controls.ListView)this.FindName("itemListView");
             backButton = (global::Windows.UI.Xaml.Controls.Button)this.FindName("backButton");
             pageTitle = (global::Windows.UI.Xaml.Controls.TextBlock)this.FindName("pageTitle");
-            backButton_Copy = (global::Windows.UI.Xaml.Controls.Button)this.FindName("backButton_Copy");
             ApplicationViewStates = (global::Windows.UI.Xaml.VisualStateGroup)this.FindName("ApplicationViewStates");
             FullScreenLandscape = (global::Windows.UI.Xaml.VisualState)this.FindName("FullScreenLandscape");
             Filled = (global::Windows.UI.Xaml.VisualState)this.FindName("Filled");
