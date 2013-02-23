@@ -42,6 +42,7 @@
         -->
         <FlipView
             x:Name="flipView"
+            Background="#CEE3F8"
             AutomationProperties.AutomationId="ItemsFlipView"
             AutomationProperties.Name="Item Details"
             TabIndex="1"

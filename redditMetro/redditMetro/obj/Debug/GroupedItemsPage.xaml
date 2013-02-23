@@ -40,6 +40,7 @@
         <!-- Horizontal scrolling grid used in most view states -->
         <GridView x:ConnectionId='1'
             x:Name="itemGridView"
+            Background="#CEE3F8"
             AutomationProperties.AutomationId="ItemGridView"
             AutomationProperties.Name="Grouped Items"
             Grid.RowSpan="2"

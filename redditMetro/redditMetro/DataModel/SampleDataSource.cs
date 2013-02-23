@@ -87,6 +87,7 @@ namespace redditMetro.Data
             {
                 if (this._image == null && this._imagePath != null)
                 {
+                    if(Uri.IsWellFormedUriString(this._imagePath, UriKind.Absolute))
                     this._image = new BitmapImage(new Uri(this._imagePath));
                 }
                 return this._image;
@@ -270,6 +271,7 @@ namespace redditMetro.Data
 
         public SampleDataSource()
         {
+            //TODO Update the String for each reddit post to make it the most readable
             String ITEM_CONTENT = String.Format("Item Content: {0}\n\n{0}\n\n{0}\n\n{0}\n\n{0}\n\n{0}\n\n{0}",
                "Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.");
 
@@ -288,9 +290,9 @@ namespace redditMetro.Data
                         "Hot Fire",
                         "Assets/DarkGray.png",
                         "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante");
-                for (int i = 0; i <= 16; i++)
+                foreach(redditObject post in feeds.data.children)
                 {
-                    redditObject post = feeds.data.children[i];
+                    //redditObject post = feeds.data.children[i];
 
                     group1.Items.Add(new SampleDataItem(post.data.title,
                             post.data.selftext,
