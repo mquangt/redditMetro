@@ -1,0 +1,5 @@
+﻿Look into making a liveTile
+UI integration
+Subreddits as different groups
+Comments
+Upvoting/Downvoting

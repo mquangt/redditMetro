@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN-JJG1UBR3VG1</Machine>
+    <WindowsUser>mattdisipio</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>628B5596F6ACC76FED319F073A6DFCB0E4540A3EEB9F4883713655005060F8C5</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>3fd3c652-af2a-4e57-beb5-95a32af3b31f_1.0.0.0_neutral__hz8epzn70j896</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>3fd3c652-af2a-4e57-beb5-95a32af3b31f_hz8epzn70j896!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>3fd3c652-af2a-4e57-beb5-95a32af3b31f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=mattdisipio</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-23T06:07:30.590</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\bin\Debug\redditMetro.exe">
+      <PackagePath>redditMetro.exe</PackagePath>
+      <Modified>2013-02-23T06:24:03.387</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\bin\Debug\redditMetro.pdb">
+      <PackagePath>redditMetro.pdb</PackagePath>
+      <Modified>2013-02-23T06:24:03.369</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\packages\Newtonsoft.Json.4.5.11\lib\winrt45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2013-02-23T01:21:09.577</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\packages\Newtonsoft.Json.4.5.11\lib\winrt45\Newtonsoft.Json.xml">
+      <PackagePath>Newtonsoft.Json.xml</PackagePath>
+      <Modified>2013-02-23T01:21:09.821</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\Assets\badge.png">
+      <PackagePath>Assets\badge.png</PackagePath>
+      <Modified>2013-02-23T05:59:42.349</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-23T05:49:16.019</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\Assets\reddit-alien.png">
+      <PackagePath>Assets\reddit-alien.png</PackagePath>
+      <Modified>2013-02-23T05:58:48.154</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <Modified>2012-03-16T01:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\Assets\small_logo.png">
+      <PackagePath>Assets\small_logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-23T05:45:22.576</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\Assets\splash.png">
+      <PackagePath>Assets\splash.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-23T05:40:51.897</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\Assets\wide_logo.png">
+      <PackagePath>Assets\wide_logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-23T05:58:56.596</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-02-23T06:06:28.553</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T21:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\bin\Debug\GroupedItemsPage.xaml">
+      <PackagePath>GroupedItemsPage.xaml</PackagePath>
+      <Modified>2013-02-23T06:24:00.502</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\bin\Debug\GroupDetailPage.xaml">
+      <PackagePath>GroupDetailPage.xaml</PackagePath>
+      <Modified>2013-02-23T06:22:32.824</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\bin\Debug\ItemDetailPage.xaml">
+      <PackagePath>ItemDetailPage.xaml</PackagePath>
+      <Modified>2013-02-23T06:24:02.339</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mattdisipio\My Projects\redditMetro\redditMetro\redditMetro\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-02-23T06:07:30.537</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
